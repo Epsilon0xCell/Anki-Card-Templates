@@ -137,7 +137,7 @@ img {
 
 .nav-item:hover .nav-link {
     transform: scale(1.1);
-    color: #0a1a22 !important;
+    color: #09171e !important;
 }
 
 /* RIGHT STUDY MENU AND LEFT STUDY MENU */
@@ -186,7 +186,7 @@ img {
 .float-end .count:hover {
     transform: scale(1.1);
     background-color: #fafdfd;
-    color: #0a1a22;
+    color: #09171e;
 }
 
 /* BROWSER BOTTOM BAR, previously #ansarea.svelte-1s4vml8, now its #ansarea.svelte-192a69y  */
@@ -248,7 +248,7 @@ td {
 .btn-secondary:hover {
     transform: scale(1.1);
     background-color: #fafdfd;
-    color: #0a1a22;
+    color: #09171e;
 }
 
 /* BROWSER CARD 1ST CONTAINER */
@@ -278,7 +278,7 @@ td {
     padding: 16px;
     margin: 64px auto;
     border-radius: 8px;
-    background-color: #0a1a22;
+    background-color: #09171e;
 }
 
 #qa .card-container {
@@ -286,7 +286,7 @@ td {
     flex-flow: column wrap;
     column-gap: 16px;
     margin: 0 auto;
-    background-color: #0a1a22;
+    background-color: #09171e;
 }
 
 /* TOPBAR CONTAINER TO ALIGN ELEMENTS */
@@ -330,7 +330,7 @@ td {
 .stopwatch:hover {
     transform: scale(1.1);
     background-color: #fafdfd;
-    color: #0a1a22;
+    color: #09171e;
 }
 
 .timer {
@@ -414,7 +414,7 @@ td {
 .common-card:hover,
 .common-card:hover * {
     background-color: #fafdfd;
-    color: #0a1a22;
+    color: #09171e;
 }
 
 .front-card:empty,
@@ -446,7 +446,7 @@ ol {
     }
 
     html {
-        background-color: #0a1a22 !important;
+        background-color: #09171e !important;
     }
 
     .navbar,
@@ -454,7 +454,7 @@ ol {
     #qa.svelte-1s4vml8,
     #qa.svelte-192a69y,
     .bg-gray.svelte-uhvvkf.svelte-uhvvkf {
-        background-color: #0a1a22;
+        background-color: #09171e;
     }
 
     .navbar .container {
@@ -470,7 +470,7 @@ ol {
         flex-wrap: wrap;
         align-content: center;
         margin: 0 auto;
-        background-color: #0a1a22;
+        background-color: #09171e;
     }
 
     .float-end {
@@ -496,7 +496,7 @@ ol {
         padding: 0;
         width: 90%;
         margin: 0 auto;
-        background-color: #0a1a22;
+        background-color: #09171e;
     }
 
     #ansarea,
