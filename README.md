@@ -44,7 +44,7 @@ Just below, there are the following self-explanatory fields: Front, Back, Extra,
 
 # Green version - front and back - on Desktop app 💻
 <img src="images/desktop - green - question.png">
-<img src="images/desktop - green - answer.png">
+<img src="images/desktop - green - answe.png">
 
 # Original version - front and back - on mobile browser 📱
 <p align="center">
