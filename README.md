@@ -22,7 +22,7 @@ Below these two icons, there is a tag field that shows the card's tags as follow
 - Only the name after the last "::" is shown.
 - Underscores ( _ ) are treated as spaces.
 
-Thus, the tag "ENEM/UECE::Humanas::História::Brasil::Brasil_império," for example, will be displayed as "Brasil Império".
+The tag "ENEM/UECE::Humanas::História::Brasil::Brasil_império," for example, will be displayed as "Brasil Império".
 
 Just below, there are the following self-explanatory fields: Front, Back, Extra, and Tip.
 
