@@ -1,7 +1,7 @@
 # Anki-Card-Templates 📚
 I originally posted this template on Reddit using Pastebin, but I decided to delete it there and move it here to help people find it more easily.
 
-### Note about bottom bar buttons (Show Answer, Again, Hard, Good, Easy, More) - on Desktop App 💻
+### Note about bottom bar and top bar buttons - on Desktop App 💻
 This template won't change the appearence of said buttons on Desktop App, only on mobile browser and desktop browser.
 In order to change them in the Desktop App, I used Beautify add-on.
 
