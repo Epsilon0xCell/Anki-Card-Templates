@@ -46,13 +46,13 @@ Just below, there are the following self-explanatory fields: Front, Back, Extra,
 <img src="images/desktop - green - question.png">
 <img src="images/desktop - green - answer.png">
 
-# Front card - original version - on mobile browser 📱
-<img src="images/IMG_1908.jpg" width=25% height=25%>
-<img src="images/IMG_1911.png" width=25% height=25%>
-
-# Back card - original version - on mobile browser 📱
-<img src="images/IMG_1909.jpg" width=25% height=25%>
-<img src="images/IMG_1910.jpg" width=25% height=25%>
+# Original version - front and back - on mobile browser 📱
+<p align="center">
+<img src="images/IMG_1908.jpg" width=24% height=20%>
+<img src="images/IMG_1911.png" width=24% height=20%>
+ <img src="images/IMG_1909.jpg" width=24% height=20%>
+<img src="images/IMG_1910.jpg" width=24% height=20%>
+</p>
 
 # Credits 
 This template uses Material Design icons by Google and Poppins font by Indian Type Foundry and Jonny Pinhorn
