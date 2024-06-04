@@ -27,10 +27,8 @@ The tag "ENEM/UECE::Humanas::História::Brasil::Brasil_império," for example, w
 Just below, there are the following self-explanatory fields: Front, Back, Extra, and Tip.
 
 # Original version - front and back - on Desktop app 💻
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-<img src="images/IMG_1912.png" width="45%">
-<img src="images/IMG_1913.png" width="45%">
-</div>
+<img src="images/IMG_1912.png">
+<img src="images/IMG_1913.png">
 
 # Blue version - front and back - on Desktop app 💻
 <img src="images/desktop - blue - question.png">
