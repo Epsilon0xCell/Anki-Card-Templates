@@ -26,17 +26,17 @@ Thus, the tag "ENEM/UECE::Humanas::História::Brasil::Brasil_império," for exam
 
 Just below, there are the following self-explanatory fields: Front, Back, Extra, and Tip.
 
-# Front card - night version - on Desktop app 💻
+# Front card - original version - on Desktop app 💻
 <img src="images/IMG_1912.png">
 
-# Back card - night version - on Desktop app 💻
+# Back card - original version - on Desktop app 💻
 <img src="images/IMG_1913.png">
 
-# Front card - night version - on mobile browser 📱
+# Front card - original version - on mobile browser 📱
 <img src="images/IMG_1908.jpg" width=25% height=25%>
 <img src="images/IMG_1911.png" width=25% height=25%>
 
-# Back card - night version - on mobile browser 📱
+# Back card - original version - on mobile browser 📱
 <img src="images/IMG_1909.jpg" width=25% height=25%>
 <img src="images/IMG_1910.jpg" width=25% height=25%>
 
