@@ -75,6 +75,25 @@ Just below, there are the following self-explanatory fields: Front, Back, Extra,
  <img src="images/Mobile - green - answer.jpeg" width=48% height=48%>
 </p>
 
+# Importing 📁
+You can do it by creating a note type on Anki and pasting the code from the HTML and CSS folders.
+
+### Create note type ➕
+1. Open Anki
+2. Click on "Add"
+3. Select Note Type
+4. Click on "Manage"
+5. Click on "Add"
+6. Click on "Add:Basic"
+7. Name the note type
+
+### Edit the note type ✍️
+1. Select the note type you created
+2. Click on "Cards..."
+3. Paste the code from front.html in "Front Template"
+4. Paste the code from back.html in "Back Template"
+5. Paste the code from one of the styles in the CSS folder in "Styling"
+
 # Credits 
 This template uses Material Design icons by Google and Poppins font by Indian Type Foundry and Jonny Pinhorn
 
