@@ -48,10 +48,31 @@ Just below, there are the following self-explanatory fields: Front, Back, Extra,
 
 # Original version - front and back - on mobile browser 📱
 <p align="center">
-<img src="images/IMG_1908.jpg" width=24% height=20%>
-<img src="images/IMG_1911.png" width=24% height=20%>
- <img src="images/IMG_1909.jpg" width=24% height=20%>
-<img src="images/IMG_1910.jpg" width=24% height=20%>
+<img src="images/Mobile - original - question.jpeg" width=48% height=48%>
+ <img src="images/Mobile - original - answer.jpeg" width=48% height=48%>
+</p>
+
+# Blue version - front and back - on mobile browser 📱
+<p align="center">
+<img src="images/Mobile - blue - question.jpeg" width=48% height=48%>
+ <img src="images/Mobile - blue - answer.jpeg" width=48% height=48%>
+</p>
+# Yellow version - front and back - on mobile browser 📱
+<p align="center">
+<img src="images/Mobile - yellow - question.jpeg" width=48% height=48%>
+ <img src="images/Mobile - yellow - answer.jpeg" width=48% height=48%>
+</p>
+
+# Purple version - front and back - on mobile browser 📱
+<p align="center">
+<img src="images/Mobile - purple - question.jpeg" width=48% height=48%>
+ <img src="images/Mobile - purple - answer.jpeg" width=48% height=48%>
+</p>
+
+# Green version - front and back - on mobile browser 📱
+<p align="center">
+<img src="images/Mobile - green - question.jpeg" width=48% height=48%>
+ <img src="images/Mobile - green - answer.jpeg" width=48% height=48%>
 </p>
 
 # Credits 
