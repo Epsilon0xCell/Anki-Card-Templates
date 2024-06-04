@@ -1,5 +1,5 @@
 # Anki-Card-Templates 📚
-I originally posted this template on Reddit using Pastebin, but I decided to delete it there and move it here to help people find it more easily.
+I originally posted this template on Reddit, but I decided to move it here to help people find it more easily and keep things for organized.
 
 ### Note about bottom bar and top bar buttons - on Desktop App 💻
 This template won't change the appearence of said buttons on Desktop App, only on mobile browser and desktop browser.
@@ -13,7 +13,7 @@ In order to change them in the Desktop App, I used Beautify add-on.
 The timer button is not synchronized with Anki's timer, so pausing it will not pause Anki's timer.
 
 # Fields ✍️
-There are six fields: front, back, extra, tip, and source.
+There are five fields: front, back, extra, tip, and source.
 Empty fields won't be displayed, so there is no need to fill them all.
 
 In the upper left corner, the first button is for tips, and it is used to show or hide the tip field. Next to the tip button, there is a timer that indicates the time elapsed since the card was opened, you can pause it by clicking on it.
