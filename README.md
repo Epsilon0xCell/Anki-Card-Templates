@@ -93,6 +93,7 @@ You can do it by creating a note type on Anki and pasting the code from the HTML
 3. Paste the code from front.html in "Front Template"
 4. Paste the code from back.html in "Back Template"
 5. Paste the code from one of the styles in the CSS folder in "Styling"
+6. Click on "Save"
 
 # Credits 
 This template uses Material Design icons by Google and Poppins font by Indian Type Foundry and Jonny Pinhorn
