@@ -1,3 +1,13 @@
+![Anki-Card-Templates banner](banner.png)
+
+<p align="center"><img src="logo.png" alt="Anki-Card-Templates logo" width="160"></p>
+
+![Anki-Card-Templates animated scene](assets-scene.svg)
+
+_Theme: synthwave. Flashcards fanned under a chrome sun, hot pink over midnight blue._
+
+<p align="center"><img src="sep-heavy.svg" alt=""></p>
+
 # Anki-Card-Templates 📚
 I originally posted this template on Reddit, but I decided to move it here to help people find it more easily and keep things for organized.
 
