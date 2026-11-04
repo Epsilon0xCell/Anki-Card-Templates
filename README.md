@@ -1,34 +1,23 @@
+# Anki-Card-Templates 📚
+
+I originally posted this template on Reddit, but I decided to move it here to help people find it more easily and keep things for organized.
+
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Format](https://img.shields.io/badge/format-HTML%20%2B%20CSS-blue.svg)
+
 <p align="center"><img src="banner.png" alt="Anki-Card-Templates banner" width="700"></p>
 
-<p align="center"><img src="logo.png" alt="Anki-Card-Templates logo" width="220"></p>
+[Note about bottom bar and top bar buttons](#note-about-bottom-bar-and-top-bar-buttons---on-desktop-app-) · [Note about mobile](#note-about-mobile-) · [Note about timer](#note-about-timer-️) · [Fields](#fields-️) · [Original version on Desktop app](#original-version---front-and-back---on-desktop-app-) · [Blue version on Desktop app](#blue-version---front-and-back---on-desktop-app-) · [Yellow version on Desktop app](#yellow-version---front-and-back---on-desktop-app-) · [Purple version on Desktop app](#purple-version---front-and-back---on-desktop-app-) · [Green version on Desktop app](#green-version---front-and-back---on-desktop-app-) · [Original version on mobile browser](#original-version---front-and-back---on-mobile-browser-) · [Blue version on mobile browser](#blue-version---front-and-back---on-mobile-browser-) · [Yellow version on mobile browser](#yellow-version---front-and-back---on-mobile-browser-) · [Purple version on mobile browser](#purple-version---front-and-back---on-mobile-browser-) · [Green version on mobile browser](#green-version---front-and-back---on-mobile-browser-) · [Importing](#importing-) · [Credits](#credits)
 
-![Anki-Card-Templates animated scene](assets-scene.svg)
+## Quick Start
 
-_Theme: synthwave. Flashcards fanned under a chrome sun, hot pink over midnight blue._
+Importing, in short:
 
-<p align="center"><img src="sep-heavy.svg" alt=""></p>
+1. Open Anki, click on "Add", select Note Type, click on "Manage", click on "Add", click on "Add:Basic", and name the note type.
+2. Select the note type you created, click on "Cards...", paste the code from front.html in "Front Template", paste the code from back.html in "Back Template", paste the code from one of the styles in the CSS folder in "Styling", and click on "Save".
 
-## Contents
+The full Importing section is at the bottom of this page.
 
-- [Note about bottom bar and top bar buttons](#note-about-bottom-bar-and-top-bar-buttons---on-desktop-app-)
-- [Note about mobile](#note-about-mobile-)
-- [Note about timer](#note-about-timer-️)
-- [Fields](#fields-️)
-- [Original version on Desktop app](#original-version---front-and-back---on-desktop-app-)
-- [Blue version on Desktop app](#blue-version---front-and-back---on-desktop-app-)
-- [Yellow version on Desktop app](#yellow-version---front-and-back---on-desktop-app-)
-- [Purple version on Desktop app](#purple-version---front-and-back---on-desktop-app-)
-- [Green version on Desktop app](#green-version---front-and-back---on-desktop-app-)
-- [Original version on mobile browser](#original-version---front-and-back---on-mobile-browser-)
-- [Blue version on mobile browser](#blue-version---front-and-back---on-mobile-browser-)
-- [Yellow version on mobile browser](#yellow-version---front-and-back---on-mobile-browser-)
-- [Purple version on mobile browser](#purple-version---front-and-back---on-mobile-browser-)
-- [Green version on mobile browser](#green-version---front-and-back---on-mobile-browser-)
-- [Importing](#importing-)
-- [Credits](#credits)
-
-# Anki-Card-Templates 📚
-I originally posted this template on Reddit, but I decided to move it here to help people find it more easily and keep things for organized.
 
 ### Note about bottom bar and top bar buttons - on Desktop App 💻
 This template won't change the appearence of said buttons on Desktop App, only on mobile browser and desktop browser.
@@ -141,3 +130,12 @@ This template uses Material Design icons by Google and Poppins font by Indian Ty
 https://fonts.google.com/icons
 - Link to Poppins font on Google Fonts:
 https://fonts.google.com/specimen/Poppins?query=poppins
+
+
+## Visual Identity
+
+_Theme: synthwave. Flashcards fanned under a chrome sun, hot pink over midnight blue._
+
+<p align="center"><img src="logo.png" alt="Anki-Card-Templates logo" width="220"></p>
+
+![Anki-Card-Templates animated scene](assets-scene.svg)
