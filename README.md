@@ -1,12 +1,31 @@
-![Anki-Card-Templates banner](banner.png)
+<p align="center"><img src="banner.png" alt="Anki-Card-Templates banner" width="700"></p>
 
-<p align="center"><img src="logo.png" alt="Anki-Card-Templates logo" width="160"></p>
+<p align="center"><img src="logo.png" alt="Anki-Card-Templates logo" width="220"></p>
 
 ![Anki-Card-Templates animated scene](assets-scene.svg)
 
 _Theme: synthwave. Flashcards fanned under a chrome sun, hot pink over midnight blue._
 
 <p align="center"><img src="sep-heavy.svg" alt=""></p>
+
+## Contents
+
+- [Note about bottom bar and top bar buttons](#note-about-bottom-bar-and-top-bar-buttons---on-desktop-app-)
+- [Note about mobile](#note-about-mobile-)
+- [Note about timer](#note-about-timer-️)
+- [Fields](#fields-️)
+- [Original version on Desktop app](#original-version---front-and-back---on-desktop-app-)
+- [Blue version on Desktop app](#blue-version---front-and-back---on-desktop-app-)
+- [Yellow version on Desktop app](#yellow-version---front-and-back---on-desktop-app-)
+- [Purple version on Desktop app](#purple-version---front-and-back---on-desktop-app-)
+- [Green version on Desktop app](#green-version---front-and-back---on-desktop-app-)
+- [Original version on mobile browser](#original-version---front-and-back---on-mobile-browser-)
+- [Blue version on mobile browser](#blue-version---front-and-back---on-mobile-browser-)
+- [Yellow version on mobile browser](#yellow-version---front-and-back---on-mobile-browser-)
+- [Purple version on mobile browser](#purple-version---front-and-back---on-mobile-browser-)
+- [Green version on mobile browser](#green-version---front-and-back---on-mobile-browser-)
+- [Importing](#importing-)
+- [Credits](#credits)
 
 # Anki-Card-Templates 📚
 I originally posted this template on Reddit, but I decided to move it here to help people find it more easily and keep things for organized.
@@ -37,24 +56,34 @@ The tag "ENEM/UECE::Humanas::História::Brasil::Brasil_império," for example, w
 Just below, there are the following self-explanatory fields: Front, Back, Extra, and Tip.
 
 # Original version - front and back - on Desktop app 💻
-<img src="images/IMG_1912.png">
-<img src="images/IMG_1913.png">
+<p align="center">
+<img src="images/IMG_1912.png" width="48%"> <img src="images/IMG_1913.png" width="48%">
+</p>
+<p align="center"><sub>Front and back, Original version, on Desktop app.</sub></p>
 
 # Blue version - front and back - on Desktop app 💻
-<img src="images/desktop - blue - question.png">
-<img src="images/desktop - blue - answer.png">
+<p align="center">
+<img src="images/desktop - blue - question.png" width="48%"> <img src="images/desktop - blue - answer.png" width="48%">
+</p>
+<p align="center"><sub>Front and back, Blue version, on Desktop app.</sub></p>
 
 # Yellow version - front and back - on Desktop app 💻
-<img src="images/desktop - yellow - question.png">
-<img src="images/desktop - yellow - answer.png">
+<p align="center">
+<img src="images/desktop - yellow - question.png" width="48%"> <img src="images/desktop - yellow - answer.png" width="48%">
+</p>
+<p align="center"><sub>Front and back, Yellow version, on Desktop app.</sub></p>
 
 # Purple version - front and back - on Desktop app 💻
-<img src="images/desktop - purple - question.png">
-<img src="images/desktop - purple - answer.png">
+<p align="center">
+<img src="images/desktop - purple - question.png" width="48%"> <img src="images/desktop - purple - answer.png" width="48%">
+</p>
+<p align="center"><sub>Front and back, Purple version, on Desktop app.</sub></p>
 
 # Green version - front and back - on Desktop app 💻
-<img src="images/desktop - green - question.png">
-<img src="images/desktop - green - answer.png">
+<p align="center">
+<img src="images/desktop - green - question.png" width="48%"> <img src="images/desktop - green - answer.png" width="48%">
+</p>
+<p align="center"><sub>Front and back, Green version, on Desktop app.</sub></p>
 
 # Original version - front and back - on mobile browser 📱
 <p align="center">
